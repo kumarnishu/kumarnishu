@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Mern Stack Technology
 - 💬 Also experience with django and django rest api development.
 - 📫 How to reach me: mail to: kumarnishu437@gmail.com
-- ⚡ Fun fact: I am mad about learning most cool things in coding..
+- ⚡ Fun fact: I am mad about learning most amazing things in coding..
