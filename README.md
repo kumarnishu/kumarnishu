@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-- 🔭 Currently IGNOU student and Full Stack Developer. 
+- 🔭 Currently IGNOU MCA student and Full Stack Developer. 
 - 🌱 I’m currently working on Electron js.
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ask me about Mern Stack Technology
