@@ -2,8 +2,7 @@
 
 Here are some ideas to get you started:
 - 🔭 Currently IGNOU student and Full Stack Developer. 
-- 🔭 I’m currently working on Electron js
-- 🌱 I’m currently learning Android Devlopment and Angular
+- 🌱 I’m currently working on Electron js.
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ask me about Mern Stack Technology
 - 💬 Also experience with django and django rest api development.
