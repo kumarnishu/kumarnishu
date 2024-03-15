@@ -5,6 +5,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on Electron js.
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ask me about Mern Stack Technology
-- 💬 Also experience with django and django rest api development.
 - 📫 How to reach me: mail to: kumarnishu437@gmail.com
 - ⚡ Fun fact: I am mad about learning most amazing things in coding..
